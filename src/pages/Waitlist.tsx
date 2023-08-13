@@ -59,7 +59,7 @@ function Waitlist() {
                 </header>
             </div>
             <div className='w-96 lg:w-full mt-20 mx-auto md:max-w-xl lg:max-w-3xl xl:max-w-4xl text-center'>
-                <p className='waitlist-number-tag dark:bg-gray rounded-md w-fit p-1 text-sm text-center mx-auto'>✨ 0 people on waitlist ✨</p>
+                <p className='waitlist-number-tag dark:bg-gray rounded-md w-fit p-1 text-sm text-center mx-auto'>✨ 100 people on waitlist ✨</p>
                 <h1 className='text-center text-3xl md:text-4xl lg:text-6xl xl:text-7xl mt-6 lg:mt-10 font-bold'>The global currencies exchange marketplace</h1>
                 <p className='text-muted mt-6 lg:mt-10 w-60 lg:w-full mx-auto lg:text-xl'>Join the future of convenient and reliable FX purchase</p>
             </div>
@@ -87,7 +87,7 @@ function Waitlist() {
                         </div>
                         <div className='md:text-center lg:text-left'>
                             <h2 className='text-2xl xl:text-3xl font-medium text-cardBlack dark:text-cardWhite'>Convert Currencies with Confidence</h2>
-                            <p className='mt-4 dark:text-muted md:text-lg'>We are uncovering new horizons and meeting the local demand with supply, join us on this journey!</p>
+                            <p className='mt-4 dark:text-muted md:text-lg'>We are uncovering new horizons and meeting the local FX demand with supply, join us on this journey!</p>
                         </div>
                     </section>
                     <section className={`${theme === 'light' ? 'swap-section-light' : 'swap-section-dark'} flex flex-col gap-10 justify-between  items-center p-10 w-96 md:w-full mt-10 mx-auto`}>
